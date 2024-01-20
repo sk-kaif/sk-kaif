@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hey, I'm Kaif 👋🏽 
 
-<!--
-**sk-kaif/sk-kaif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A __Self Taught Developer__ based in India, and I'm passionate about crafting digital experiences. 
 
-Here are some ideas to get you started:
+- Check out my [website](https://kaif-reactportfolio.vercel.app/) to learn more about me.
+- Stay updated with my journey on [Twitter](https://twitter.com/Shaikhkaif), [LinkedIn](https://www.linkedin.com/in/shaikh-kaif-62ba3725b/) .
+- Currently Learning `Nextjs` / `Typescript`
+- Explore my [VS Code Configuration](https://github.com/sk-kaif/.vsCode) for development optimization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+## 📦 Toolbox
+
+**Frontend Development:** `Javascript` `React` `Next.js` `TypeScript` `Tailwind` `Framer-Motion`
+ 
+**Version Control:** `Git`  
+
+**Backend Development:** `Firebase`
+
+**Testing:** `Postman` 
+
+**Others:** `Redux` `figma`
+ 
+
+## 📫 Contact
+
+ For a quick response, DM me on [Instagram](https://www.instagram.com/shaikhhkaaif/) or [LinkedIn](https://www.linkedin.com/in/shaikh-kaif-62ba3725b/). 
+ 
