@@ -10,11 +10,11 @@ A __Self Taught Developer__ based in India, and I'm passionate about crafting di
   
 ## 📦 Toolbox
 
-**Frontend Development:** `Javascript` `React` `Next.js` `TypeScript` `Tailwind` `Framer-Motion`
+**Frontend Development:** `Javascript` `React Js` `Next Js` `TypeScript` `Tailwind` `Framer-Motion`
  
 **Version Control:** `Git`  
 
-**Backend Development:** `Firebase`
+**Backend Development:** `Firebase` `Node JS` `Express JS`
 
 **Testing:** `Postman` 
 
