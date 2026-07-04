@@ -10,15 +10,15 @@ A __Self Taught Developer__ based in India, and I'm passionate about crafting di
   
 ## 📦 Toolbox
 
-**Frontend Development:** `Javascript` `React Js` `Next Js` `TypeScript` `Tailwind` `Framer-Motion` `Gsap`
- 
-**Version Control:** `Git` `Github`
+**Frontend Development:** `HTML5` `CSS3` `JavaScript (ES6+)` `TypeScript` `React.js` `Next.js (SSR, SSG, CSR)` `Redux Toolkit` `Tailwind CSS` `GSAP` `Framer Motion` `SAP UI5`
 
-**Backend Development:** `Firebase` `Node JS` `Express JS`
+**Backend Development:** `Node.js` `Express.js` `MongoDB` `Authentication (JWT, Sessions)` `Context API` `MVC` `SQL` `Firebase`
 
-**Testing:** `Postman` 
+**CMS & SEO:** `WordPress` `Magento 2` `FTP` `Blog Optimization` `SEO-Driven Growth`
 
-**Others:** `Redux` `figma`
+**Deployment & Tools:** `Git` `GitHub` `Docker` `CI/CD` `Vercel` `Cloudways` `PM2` `Postman` `Figma` `Canva`
+
+**Others:** `Responsive Design` `REST API Integration` `Clean Architecture`
  
 
 ## 📫 Contact
